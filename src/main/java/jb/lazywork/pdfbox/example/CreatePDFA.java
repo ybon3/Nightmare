@@ -49,7 +49,7 @@ public final class CreatePDFA
     {
     	args = new String[]{
     		Context.ARGS[0],
-    		"你好哇哇哇屋哇哇哇",
+    		"你好哇哇哇屋  哇哇哇",
     		"c:\\windows\\fonts\\kaiu.ttf"
     	};
         if (args.length != 3)

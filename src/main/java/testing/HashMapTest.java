@@ -14,7 +14,7 @@ public class HashMapTest {
 	public static void main(String[] args) {
 		HashMap<String,String> map = new HashMap<>();
 
-		String key = "123";
+		String key = "123 ";
 		System.out.println(map.containsKey(key));
 		map.put(key, "456");
 		System.out.println(map.containsKey(key));
