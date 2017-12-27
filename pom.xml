@@ -43,6 +43,11 @@
 			<artifactId>fhir</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>com.dtc.common</groupId>
+			<artifactId>dicom</artifactId>
+			<version>0.0.2-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 	
 	<build>
